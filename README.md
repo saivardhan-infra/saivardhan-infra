@@ -9,6 +9,8 @@
 
 ## 🛠 Tech Stack
 - ☁ AWS: EC2, EKS, IAM, VPC, ALB, S3, Route 53
+- 📊 Monitoring: Amazon CloudWatch
+- ⚡ Serverless Automation: AWS Lambda
 - 🐳 Docker & Kubernetes
 - 🔁 Jenkins (CI/CD Automation)
 - 🏗 Terraform & Infrastructure as Code
