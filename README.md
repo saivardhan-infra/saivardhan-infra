@@ -28,10 +28,7 @@ I love turning manual processes into fully automated pipelines and working on re
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saivardhan-infra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saivardhan-infra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivardhan-infra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
@@ -40,8 +37,7 @@ I love turning manual processes into fully automated pipelines and working on re
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saivardhan-infra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
